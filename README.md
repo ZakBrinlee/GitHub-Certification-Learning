@@ -10,6 +10,7 @@
 - GitHub Administation
 
 ### Repo structure
+```bash
 ├── [GitHub Certification]
 │    └─ [Online Course]
 │    │    ├── **/*.{anything related to course work excercises}
@@ -17,6 +18,7 @@
 │    └─ README.md (Certification Summary)
 ├── README.md
 └── .gitignore
+```
 ## Links
 - []()
 - []()
