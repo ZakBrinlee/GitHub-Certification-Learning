@@ -17,23 +17,23 @@ Completed: January 17th, 2023
 - Version control
 - Easily collaboration of code
 - Two types of Version Control Architecutre
--- Centralized 
---- Single storage location for code
---- Tracking and Retrieval are all happening on the same server
---- Apache SubVersioN (popular software for centralized version)
--- Distributed
---- Clone (copy) of the source code
---- Source code (on server) is considered the "working copy"
---- Push/Pull code from the source code
+  - Centralized 
+    - Single storage location for code
+    - Tracking and Retrieval are all happening on the same server
+    - Apache SubVersioN (popular software for centralized version)
+  - Distributed
+    - Clone (copy) of the source code
+    - Source code (on server) is considered the "working copy"
+    - Push/Pull code from the source code
 - What is Git?
--- Version Control
--- Time Machine
--- Check points (commits)
--- Multiverse (branches)
--- Synchronize (merging)
+  - Version Control
+  - Time Machine
+  - Check points (commits)
+  - Multiverse (branches)
+  - Synchronize (merging)
 - Rebasing
--- Allows you to take the changes from one branch and apply them onto another
--- This is the time machine part of Git as it lets you rewrite the commit history
+  - Allows you to take the changes from one branch and apply them onto another
+  - This is the time machine part of Git as it lets you rewrite the commit history
 
 ## Working with GitHub
 ### What is GitHub?
@@ -41,10 +41,10 @@ Completed: January 17th, 2023
 - Collaborative Environment
 - Project Management
 - Must know how to
--- Set up remote
--- Push
---- How to push files to the remote repository
--- Fetch/Pull
+  - Set up remote
+  - Push
+    - How to push files to the remote repository
+  - Fetch/Pull
 
 ### Using Markdown
 - General info, use Markdown Cheatsheet until you are familiar
@@ -53,7 +53,7 @@ Completed: January 17th, 2023
 ### Markdown Additions
 - This is extended syntax for additional features in markdown
 - New to me
--- Footnotes `[^1]` -> reference lower in doc with `[^1]: footnote here`
+  - Footnotes `[^1]` -> reference lower in doc with `[^1]: footnote here`
 
 ## GitHub Repos and Projects
 ### Repo Essential Files
@@ -93,39 +93,37 @@ Completed: January 17th, 2023
 
 ### Syncing GitHub
 - `fetch` vs `pull`
--- `fetch` will sync the connection between remote and local
--- `pull` will sync and copy the changes from a remote repo into the local files/working directy
+  - `fetch` will sync the connection between remote and local
+  - `pull` will sync and copy the changes from a remote repo into the local files/working directy
 - Releases
--- Specific version of your application
--- `vX.X.X` -> `v<main-release.sub-release.minor-release|bug-fix>`
+  - Specific version of your application
+  - `vX.X.X` -> `v<main-release.sub-release.minor-release|bug-fix>`
 
 
 ### Repository Insights
 - Pulse
--- Overview of the repository including # of Pull Requests, Open Pull requests, etc
+  - Overview of the repository including # of Pull Requests, Open Pull requests, etc
 - Contributors
--- Graphs with information regarding additions, deletions, contributors, etc
-- Community
---
+  - Graphs with information regarding additions, deletions, contributors, etc
 - Community Standards
--- How the project compares to GitHub's community standards
+  - How the project compares to GitHub's community standards
 - Traffic
--- Vistors, Clones, referring sites, popular content, etc
+  - Vistors, Clones, referring sites, popular content, etc
 - Commits
--- Shows commits over time
+  - Shows commits over time
 - Code Frequency
--- Graphs of actions to code on the repo
+  - Graphs of actions to code on the repo
 - Depency Graph
--- What dependencies the project has and if any are out of date
+  - What dependencies the project has and if any are out of date
 - Network
--- Graph of people making pull requests/changes to code. 
+  - Graph of people making pull requests/changes to code. 
 - Forks
--- List of forks from the repo
+  - List of forks from the repo
 
 ### GitHub Shortcut Features
 - `?` immediately opens a helper
--- If in repo, will open command pallete
--- If in main GH, will open Shortcut window
+  - If in repo, will open command pallete
+  - If in main GH, will open Shortcut window
 - `CMD+k` opens command pallete
 - `CMD+.` opens a lightweight editor in github.dev
 
@@ -136,9 +134,9 @@ Completed: January 17th, 2023
 -  Use discussions to ask and answer questions, share information, make announcements, and conduct or participate in a conversation about a project on GitHub.
 - [GitHub Discussions](https://docs.github.com/en/discussions)
 - Awesome place to get feedback from users using features
--- Polls
--- Q&A
--- Much more
+  - Polls
+  - Q&A
+  - Much more
 
 ### GitHub Notifications
 - Types of notifications
@@ -148,7 +146,7 @@ Completed: January 17th, 2023
 ### GitHub gists
 - Share code, notes, and snippets.
 - [GitHub all gists](https://gist.github.com/discover)
--- Great place to find small code snippets for things like regex, apis, formulas etc
+  - Great place to find small code snippets for things like regex, apis, formulas etc
 
 ### GitHub wikis
 - You can host documentation for your repository in a wiki, so that others can use and contribute to your project.
