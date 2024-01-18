@@ -12,7 +12,7 @@ Completed: January 17th, 2023
 
 ## Links
 - [Course Slides](https://raybo.org/slides_practicalactions/#/)
-- []()
+- [Podcast RSS Feed example](https://help.apple.com/itc/podcasts_connect/#/itcbaf351599)
 
 ## Intro
 - Advanced Course
