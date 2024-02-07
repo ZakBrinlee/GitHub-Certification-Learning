@@ -1,0 +1,15 @@
+name: artifact-workflow
+on: push
+env:
+  ARTIFACT_NAME: test-artifact
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: ${{ env.ARTIFACT_NAME }}
+        path: .
