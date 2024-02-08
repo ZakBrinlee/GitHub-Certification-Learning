@@ -7,7 +7,7 @@
   - ### [X] Create and publish custom GitHub actions
   - ### [X] Build and deploy applications to Azure by using GitHub Actions
   - ### [X] Manage GitHub Actions in the enterprise
-## [ ] [Learning GitHub Actions](https://www.linkedin.com/learning/learning-github-actions-2)
+## [X] [Learning GitHub Actions](https://www.linkedin.com/learning/learning-github-actions-2)
 ## [ ] [Advanced GitHub Actions](https://www.linkedin.com/learning/advanced-github-actions)
 ## [ ] [GitHub Actions for CI/CD](https://www.linkedin.com/learning/github-actions-for-ci-cd)
 
