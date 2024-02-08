@@ -2,9 +2,6 @@
 
 ## Microsoft Learning path course work
 
-## What will be covered
-- 
-
 ## Links
 - []()
 - []()
@@ -12,7 +9,13 @@
 ## Intro
 - What is CI/CD
   - Continous Integration
+    - Combining code
+    - Linting
+    - Static analysis
+    - Unit tests
   - Continous Deployment
     - Fully automated deployment to production env
   - Continous Delivery
+    - Compiling code into package
+    - Storing package in registry
 
