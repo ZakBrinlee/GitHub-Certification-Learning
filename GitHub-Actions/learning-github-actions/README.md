@@ -2,12 +2,8 @@
 
 ## LinkedIn Learning path course work
 
-## What will be covered
-- 
-
 ## Links
 - [Github Filter pattern cheat sheet - path, branch, and tag filters](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet)
-- []()
 
 ## Intro
 - Requires use/knowledge of YAML files
