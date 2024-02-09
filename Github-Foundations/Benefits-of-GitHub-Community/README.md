@@ -4,12 +4,6 @@ Completed: January 24th, 2023
 
 ## LinkedIn Learning path course work
 
-## Notes
-
-## Links
-- []()
-- []()
-
 ## Benefits of Open Source Community
 - Open Source
   - Freely available for modifcation/collaboration online

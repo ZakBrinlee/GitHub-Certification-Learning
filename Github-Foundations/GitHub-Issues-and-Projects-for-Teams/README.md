@@ -1,6 +1,7 @@
 # [GitHub Issues and Projects for Teams - course](https://www.linkedin.com/learning/github-issues-and-projects-for-teams)
 Started: January 17th, 2023
 Completed: January 17th, 2023
+
 ### [GitHub Project setup as part of this course](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project)
 
 ## Notes

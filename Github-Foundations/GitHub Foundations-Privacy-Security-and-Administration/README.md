@@ -5,11 +5,6 @@ Completed: January 24th, 2023
 ## LinkedIn Learning path course work
 
 ## Notes
-
-## Links
-- []()
-- []()
-
 ## Ensuring GitHub Account Integrity
 ### Auth & Security Intro
 - Auth & Security Concepts

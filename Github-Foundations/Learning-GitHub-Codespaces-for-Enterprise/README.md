@@ -12,8 +12,6 @@ Completed: January 23th, 2023
 
 ## Links
 - [Intro to devcontainers](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers)
-- []()
-- []()
 
 ## Required for course
 - Basic understanding of code
