@@ -2,11 +2,7 @@
 
 ## Microsoft Learning path course work
 
-## Links
-- []()
-- []()
-
-## Intro
+## Notes
 - What is CI/CD
   - Continous Integration
     - Combining code
@@ -15,7 +11,9 @@
     - Unit tests
   - Continous Deployment
     - Fully automated deployment to production env
+    - Placing software or artifact into a system
   - Continous Delivery
     - Compiling code into package
     - Storing package in registry
-
+  - Environments
+    - Named deployment targets

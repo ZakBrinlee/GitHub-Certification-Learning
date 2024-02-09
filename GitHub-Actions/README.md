@@ -9,12 +9,8 @@
   - ### [X] Manage GitHub Actions in the enterprise
 ## [X] [Learning GitHub Actions](https://www.linkedin.com/learning/learning-github-actions-2)
 ## [ ] [Advanced GitHub Actions](https://www.linkedin.com/learning/advanced-github-actions)
-## [ ] [GitHub Actions for CI/CD](https://www.linkedin.com/learning/github-actions-for-ci-cd)
+## [X] [GitHub Actions for CI/CD](https://www.linkedin.com/learning/github-actions-for-ci-cd)
 
 ## Links
 - []()
 - []()
-
-## Key Notes
-- 
-- 
