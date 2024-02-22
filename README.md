@@ -10,7 +10,7 @@
   ![GitHub Foundations certificate badge](.github/github-foundations.png)
 - GitHub Actions
   - Earned [certificate](https://www.credly.com/badges/3846b68c-0f64-4bdf-805d-9034789b11f8/public_url) on February 20, 2024
-  ![GitHub Actions certificate badge](.github/github-actions.png)
+  ![GitHub Actions certificate badge](.github/github-actions_small.png)
 - GitHub Administation
 
 ### Repo structure
